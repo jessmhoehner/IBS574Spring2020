@@ -10,5 +10,5 @@ data
 master homework files
     - contains files for homework assignments
 
-homework solutions (pending)
+homework solutions
     -solutions for homework assignments will be posted here after their deadlines
